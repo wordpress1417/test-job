@@ -7,3 +7,4 @@ git remote add origin https://github.com/wordpress1417/test-job.git
 git push -u origin main
 git add
 added maven
+testing jenkins
